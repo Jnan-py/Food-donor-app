@@ -1,0 +1,19 @@
+.pnf{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 93vh; 
+  margin-top:  auto;
+  margin-bottom: auto;
+}
+.img404{
+    width:38rem;
+    height:23rem;
+}
+.pnft {
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
